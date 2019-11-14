@@ -1,2 +1,2 @@
 # mjd-kodi
-Вывод данных из majordomo на экран kodi
+Вывод json данных из majordomo на экран kodi

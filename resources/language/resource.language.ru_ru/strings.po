@@ -1,0 +1,99 @@
+# Kodi Media Center language file
+# Addon Name: SmartHome
+# Addon id: script.module.smarthome
+# Addon Provider: DrHellP
+
+msgid ""
+msgstr ""
+
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+
+# Settings
+
+msgctxt "#32101"
+msgid "Server"
+msgstr "Сервер"
+
+msgctxt "#32102"
+msgid "IP address"
+msgstr "IP адрес"
+
+# Location
+
+msgctxt "#32103"
+msgid "Location"
+msgstr "Расположение"
+
+msgctxt "#32104"
+msgid "Bedroom"
+msgstr "Спальня"
+
+msgctxt "#32105"
+msgid "Cellar"
+msgstr "Подвал"
+
+msgctxt "#32106"
+msgid "Garage"
+msgstr "Гараж"
+
+msgctxt "#32107"
+msgid "Hall"
+msgstr "Холл"
+
+msgctxt "#32108"
+msgid "Hallway"
+msgstr "Прихожая"
+
+msgctxt "#32109"
+msgid "Kitchen"
+msgstr "Кухня"
+
+msgctxt "#32110"
+msgid "Toilet"
+msgstr "Туалет"
+
+msgctxt "#32111"
+msgid "Bathroom"
+msgstr "Ванная"
+
+msgctxt "#32112"
+msgid "Livingroom"
+msgstr "Гостиная"
+
+msgctxt "#32113"
+msgid "Childrensroom"
+msgstr "Детская комната"
+
+msgctxt "#32114"
+msgid "Outdoors"
+msgstr "На улице"
+
+# Sensor data
+
+msgctxt "#32120"
+msgid "Humidity"
+msgstr "Влажность"
+
+msgctxt "#32121"
+msgid "Pressure"
+msgstr "Давление"
+
+msgctxt "#32122"
+msgid "Temperature"
+msgstr "Температура"
+
+# Measure
+
+msgctxt "#32130"
+msgid "%"
+msgstr "%"
+
+msgctxt "#32131"
+msgid "mmHg"
+msgstr "мм.рт.ст"
+
+msgctxt "#32132"
+msgid "C"
+msgstr "C"

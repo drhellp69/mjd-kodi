@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.smarthome" name="SmartHome" version="0.1.0" provider-name="DrHellP">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.future"/>
+        <import addon="script.module.requests" version="2.3.0"/>
+        <import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">System data smart home Majordomo</summary>
+        <summary lang="ru_RU">Данные системы умный дом Majordomo</summary>
+        <description lang="en_GB">Provided solely for personal non-commercial use</description>
+        <description lang="ru_RU">Предоставлена исключительно для личного некоммерческого использования</description>
+        <disclaimer lang="en_GB"></disclaimer>
+        <disclaimer lang="ru_RU"></disclaimer>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <forum></forum>
+        <website>https://www.loc.ru/</website>
+        <email>drhellp@gmail.com</email>
+        <source></source>
+        <news></news>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
